@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "sweetalert2": "^11.3.4",
+    "vendor": "^1.7.0"
+  }
+}
